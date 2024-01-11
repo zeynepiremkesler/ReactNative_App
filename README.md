@@ -1,4 +1,4 @@
-React Native Camera Project
+ReactNative Camera Project
 ===========================
 
 Hello everyone!
